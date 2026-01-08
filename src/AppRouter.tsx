@@ -8,7 +8,7 @@ import { About, Contact, Home, Moreinfo, Quote, Work} from "./pages"
 export const AppRouter = () => {
 
   return (
-    <BrowserRouter> 
+    <BrowserRouter basename = "/mi-portafolio/" > 
       <Routes>
         <Route path="/" element={ <Home />} />
         <Route path="/about" element={ <About/>} />

@@ -75,7 +75,7 @@ export const About = () => {
                 {/* flex aspect-square items-center justify-center p-6 */}
 
                  <img 
-                 src={`./imagenes/${ photos[index]}.jpg`}
+                 src={`/mi-portafolio/imagenes/${ photos[index]}.jpg`}
                  alt="" 
                  className="w-full h-full object-cover"
                  />

@@ -80,7 +80,7 @@ const listaProyectos = proyectos.slice(inicio, fin);
       
       >
         <img 
-          src={`/imagenes/${ items.imago }`}
+          src={`/mi-portafolio/imagenes/${ items.imago }`}
           className="w-48 h-42 object-contain bg-emerald-950 border-black"
           alt=""
           />

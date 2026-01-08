@@ -33,7 +33,7 @@ export const Quote = () => {
         </div>
 
         <figure className="figure-quote">
-            <img src={`/imagenes/${ proyecto.imago}`} alt="" />
+            <img src={`/mi-portafolio/imagenes/${ proyecto.imago}`} alt="" />
         </figure>
 
     </div>

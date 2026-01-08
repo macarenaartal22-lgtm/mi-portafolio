@@ -76,7 +76,7 @@ useEffect (() => {
       <div className="flex items-center justify-center">
       <img  
       className="w-100 h-100 object-cover rounded-full shadow-2xl  " 
-      src="./imagenes/Iconofoto.PNG" 
+      src="/mi-portafolio/imagenes/Iconofoto.PNG" 
       alt="" 
       />
       </div>
