@@ -1,0 +1,27 @@
+.tituloabout {
+    font-family: "Lexend", sans-serif;
+    width: 8rem;
+    height: 7rem;
+    
+}
+
+.textoabout {
+    font-family: "Lexend", sans-serif;
+    
+}
+
+
+.icono-flecha {
+    width:2rem;
+    height:3rem;
+    color: black;
+    position: absolute;
+    top: 20px;
+    left:20px;
+
+}
+
+.icono-flecha:hover {
+    color: #433974;
+}
+

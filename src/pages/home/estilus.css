@@ -1,0 +1,40 @@
+.fondo-portada{
+    background-color: #fae9ef;
+    height: 100vh;
+    padding-top: 2rem;
+    color: black;
+    font-family: "Lexend", sans-serif;
+    position: relative;
+
+}
+
+body {
+    margin: 0rem;
+}
+
+.titulo{
+    font-size: 42px;
+    font-family: "Lexend", sans-serif;
+}
+
+.fotoportada{
+    width: 300px;
+    border-radius: 1000px;
+    border-width: 0rem;
+    margin: 5rem 16rem;
+    flex:justify-center;
+}
+
+.fotoportada:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}
+
+.botones > Button {
+    margin-left: 0.5;
+
+}
+
+.botones > Button:hover {
+    color: #996677;
+}
